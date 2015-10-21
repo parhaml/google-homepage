@@ -1,0 +1,98 @@
+a {
+	text-decoration: none;
+	color: #222;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.header {
+	width: 100%;
+	height: 39px;
+	background-color: #FFF;
+	font: 13px arial, sans-serif;
+	line-height: 39px;
+	color: #222;
+	position: absolute;
+	top: 0;
+}
+
+#top_right {
+	position: relative;
+	float: right;
+	height: inherit;
+	margin: 0 10px;
+	line-height: 39px;
+}
+
+#logo {
+	width:	272px;
+	height: 92px;
+}
+
+#search {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	margin: 200px auto;
+}
+
+#field_wrap{
+	margin: 30px auto;
+}
+
+#field {
+	height: 36px;
+	width: 70%;
+	font: 18px arial, sans-serif;
+	line-height: 36px;
+	color: #bbb;
+	min-width: 400px;
+	max-width: 600px;
+
+}
+
+.bottom {
+	width: 100%;
+	max-width: 100%;
+	min-width: 50%;
+	height: 39px;
+	font-color: #222;
+	background-color: #F2F2F2;
+	font: 13px arial, sans-serif;
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	text-align: center;
+	padding-right: 10px;
+}
+
+#right {
+	position: relative;
+	float: right;
+	height: inherit;
+	margin: 0 30px;
+	line-height: 39px;
+}
+
+#left {
+	position: relative;
+	float: left;
+	height: inherit;
+	margin: 0 30px;
+	line-height: 39px;
+}
+
+.button {
+	height: 36px;
+	width: 150px;
+	background-color: #F2F2F2;
+	font: 14px arial, sans-serif;
+	font-weight: bold;
+	color: #707070;
+	padding: auto;
+	display: inline-block;
+	line-height: 36px;
+}
+
